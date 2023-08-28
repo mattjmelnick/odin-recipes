@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first main project for the foundations course. The project uses HTML to build a main index page that links to three different recipes through their own hyperlinks. Each page contains an image of the dish (img and src tag), the ingredients (unordered list), and the steps for making the food (ordered list).
